@@ -17,7 +17,7 @@
     "@babel/parser": "^7.2.3",
     "lodash": "^4.17.11",
     "mermaid": "^8.0.0",
-    "opn": "^5.4.0"
+    "opn": "^6.0.0"
   },
   "devDependencies": {
     "jest": "^23.6.0"
