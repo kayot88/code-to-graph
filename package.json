@@ -13,7 +13,7 @@
     "code-to-graph": "./cli.js"
   },
   "dependencies": {
-    "@babel/generator": "^7.2.2",
+    "@babel/generator": "^7.12.17",
     "@babel/parser": "^7.2.3",
     "lodash": "^4.17.11",
     "mermaid": "^8.0.0",
